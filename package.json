@@ -1,11 +1,11 @@
 {
   "name": "react-spectrum-monorepo",
   "private": true,
-  "version": "2.21.0-beta.0",
+  "version": "2.21.0-beta.1",
   "description": "Spectrum UI components in React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum"
   },
   "packageManager": "yarn@4.2.2",
   "scripts": {
