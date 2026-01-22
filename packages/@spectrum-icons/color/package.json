@@ -1,11 +1,11 @@
 {
-  "name": "@spectrum-icons/color",
+  "name": "@rabacsa-kft/spectrum-icons-color",
   "version": "3.5.27",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/@spectrum-icons/color"
   },
   "exports": {
     "./*": {
@@ -37,5 +37,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "1acaad9f0ed51537b8d7a8af58afad4f56f8e16c"
 }

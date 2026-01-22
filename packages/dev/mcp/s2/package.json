@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/dev/mcp/s2"
   },
   "files": [
     "dist",
@@ -40,5 +40,6 @@
   "main": "dist/main.js",
   "module": "dist/module.js",
   "types": "dist/types.d.ts",
-  "source": "src/index.ts"
+  "source": "src/index.ts",
+  "gitHead": "c370d2f6161809ac4f0dc1e48bd125af6ca9e01f"
 }

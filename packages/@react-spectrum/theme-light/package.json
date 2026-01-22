@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/@react-spectrum/theme-light"
   },
   "dependencies": {
     "@react-types/provider": "^3.8.13",
@@ -51,5 +51,6 @@
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-  }
+  },
+  "gitHead": "18412f25fea2398c449105063b85c34e6714de6a"
 }

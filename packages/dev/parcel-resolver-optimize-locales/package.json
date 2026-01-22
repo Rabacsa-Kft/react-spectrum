@@ -10,5 +10,10 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/dev/parcel-resolver-optimize-locales"
+  },
+  "gitHead": "c370d2f6161809ac4f0dc1e48bd125af6ca9e01f"
 }

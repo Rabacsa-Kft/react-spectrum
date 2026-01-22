@@ -1,13 +1,16 @@
 {
-  "lerna": "3.0.0",
+  "packages": ["packages/*", "packages/*/*"],
   "version": "independent",
+  "npmClient": "yarn",
   "useWorkspaces": true,
   "command": {
     "publish": {
-      "allowBranch": [
-        "main",
-        "release"
-      ]
+      "registry": "https://npm.pkg.github.com",
+      "ignoreChanges": ["*.md", "*.test.ts", "*.test.tsx"],
+      "message": "chore(release): publish"
+    },
+    "version": {
+      "conventionalCommits": true
     }
   }
 }

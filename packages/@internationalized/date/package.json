@@ -1,5 +1,5 @@
 {
-  "name": "@internationalized/date",
+  "name": "@rabacsa-kft/internationalized-date",
   "version": "3.10.1",
   "description": "Internationalized calendar, date, and time manipulation utilities",
   "license": "Apache-2.0",
@@ -23,12 +23,13 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum/tree/main/packages/@internationalized/date"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/@internationalized/date"
   },
   "dependencies": {
     "@swc/helpers": "^0.5.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "00e0d9e94db41674221f76c586664b233e62cc6e"
 }

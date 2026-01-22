@@ -1,5 +1,5 @@
 {
-  "name": "react-aria-tailwind-starter",
+  "name": "@rabacsa-kft/react-aria-tailwind-starter",
   "version": "0.0.1",
   "private": true,
   "packageManager": "yarn@4.2.2",

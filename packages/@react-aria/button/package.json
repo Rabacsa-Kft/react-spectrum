@@ -23,7 +23,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/@react-aria/button"
   },
   "dependencies": {
     "@react-aria/interactions": "^3.26.0",
@@ -40,5 +40,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "00e0d9e94db41674221f76c586664b233e62cc6e"
 }

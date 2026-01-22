@@ -5,12 +5,13 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/dev/ts-plugin"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "rsp": {
     "type": "cli"
-  }
+  },
+  "gitHead": "c370d2f6161809ac4f0dc1e48bd125af6ca9e01f"
 }

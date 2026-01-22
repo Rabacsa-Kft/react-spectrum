@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-react-aria-components",
+  "name": "@rabacsa-kft/tailwindcss-react-aria-components",
   "version": "2.0.1",
   "description": "A Tailwind plugin that adds variants for data attributes in React Aria Components",
   "license": "Apache-2.0",
@@ -13,7 +13,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/tailwindcss-react-aria-components"
   },
   "peerDependencies": {
     "tailwindcss": "^4.0.0"
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "e34921c46306a8143aaf4bda882b03ff759b9a01"
 }

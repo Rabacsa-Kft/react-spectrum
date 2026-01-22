@@ -1,5 +1,5 @@
 {
-  "name": "react-aria-components",
+  "name": "@rabacsa-kft/react-aria-components",
   "version": "1.14.0",
   "description": "A library of styleable components built using React Aria",
   "license": "Apache-2.0",
@@ -38,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/react-aria-components"
   },
   "dependencies": {
     "@internationalized/date": "^3.10.1",
@@ -80,5 +80,6 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0"
-  }
+  },
+  "gitHead": "574f60091d76fc3f864623bbe55bb4e0a9bcc566"
 }

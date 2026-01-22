@@ -18,7 +18,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/react-spectrum"
+    "url": "https://github.com/Rabacsa-Kft/react-spectrum/tree/main/packages/dev/codemods"
   },
   "dependencies": {
     "@babel/parser": "^7.24.5",
@@ -48,5 +48,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "18412f25fea2398c449105063b85c34e6714de6a"
 }
