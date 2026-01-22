@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/parcel-transformer-s2-icon",
+  "name": "@rabacsa-kft/react-spectrum-parcel-transformer-s2-icon",
   "version": "1.0.0",
   "main": "IconTransformer.js",
   "engines": {
@@ -22,6 +22,6 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@react-aria/dialog",
+  "name": "@rabacsa-kft/react-aria-dialog",
   "version": "3.5.32",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -38,6 +38,6 @@
     "@swc/helpers": "^0.5.0"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@react-aria/live-announcer",
+  "name": "@rabacsa-kft/react-aria-live-announcer",
   "version": "3.4.4",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -29,6 +29,6 @@
     "@swc/helpers": "^0.5.0"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/mcp",
+  "name": "@rabacsa-kft/react-spectrum-mcp",
   "version": "1.0.0",
   "description": "MCP server for React Spectrum (S2) documentation",
   "type": "module",
@@ -24,7 +24,7 @@
   },
   "license": "Apache-2.0",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/test-utils",
+  "name": "@rabacsa-kft/react-spectrum-test-utils",
   "version": "1.0.0-beta.3",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -39,7 +39,7 @@
     "react-dom": "^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@adobe/spectrum-css-temp": "3.0.0-alpha.1"

@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/tree",
+  "name": "@rabacsa-kft/react-spectrum-tree",
   "version": "3.1.9",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -62,6 +62,6 @@
     "@react-spectrum/style-macro-s1": "3.0.0-alpha.5"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

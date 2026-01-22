@@ -30,6 +30,6 @@
     "intl-messageformat": "^10.1.0"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

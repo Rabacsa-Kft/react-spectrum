@@ -1,5 +1,5 @@
 {
-  "name": "@react-stately/utils",
+  "name": "@rabacsa-kft/react-stately-utils",
   "version": "3.11.0",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -32,6 +32,6 @@
     "@swc/helpers": "^0.5.0"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/codemods",
+  "name": "@rabacsa-kft/react-spectrum-codemods",
   "version": "1.0.0",
   "main": "dist/index.js",
   "source": "src/index.ts",
@@ -47,6 +47,6 @@
     "type": "cli"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

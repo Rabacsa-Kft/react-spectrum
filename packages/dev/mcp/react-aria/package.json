@@ -1,5 +1,5 @@
 {
-  "name": "@react-aria/mcp",
+  "name": "@rabacsa-kft/react-aria-mcp",
   "version": "1.0.0",
   "description": "MCP server for React Aria documentation",
   "type": "module",
@@ -23,7 +23,7 @@
   },
   "license": "Apache-2.0",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",

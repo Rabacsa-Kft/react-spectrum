@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/ts-plugin",
+  "name": "@rabacsa-kft/react-spectrum-ts-plugin",
   "version": "0.1.0",
   "main": "./src/index.js",
   "license": "Apache-2.0",
@@ -8,7 +8,7 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "rsp": {
     "type": "cli"

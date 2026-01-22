@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/illustratedmessage",
+  "name": "@rabacsa-kft/react-spectrum-illustratedmessage",
   "version": "3.5.15",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -56,6 +56,6 @@
     "react-dom": "^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

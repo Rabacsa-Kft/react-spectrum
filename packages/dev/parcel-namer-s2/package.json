@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/parcel-namer-s2",
+  "name": "@rabacsa-kft/react-spectrum-parcel-namer-s2",
   "version": "1.0.0",
   "main": "S2Namer.js",
   "engines": {
@@ -17,6 +17,6 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

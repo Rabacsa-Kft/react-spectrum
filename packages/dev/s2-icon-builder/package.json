@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/s2-icon-builder",
+  "name": "@rabacsa-kft/react-spectrum-s2-icon-builder",
   "version": "1.0.0",
   "license": "Apache-2.0",
   "repository": {
@@ -44,6 +44,6 @@
     "type": "cli"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }

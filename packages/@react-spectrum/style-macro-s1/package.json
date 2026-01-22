@@ -1,5 +1,5 @@
 {
-  "name": "@react-spectrum/style-macro-s1",
+  "name": "@rabacsa-kft/react-spectrum-style-macro-s1",
   "version": "3.0.0-alpha.5",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -16,6 +16,6 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }
